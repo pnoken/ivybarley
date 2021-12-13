@@ -1,4 +1,4 @@
-## 👋 Hi there, this is Ivy 
+## 👋 Hi there, this is Ivy Barley
 
 ### 💻 I'm a Program Manager, Data Scientist, Entrepreneur and Content Creator
 
