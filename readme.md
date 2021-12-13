@@ -2,13 +2,11 @@
 
 ### 💻 I'm a Program Manager, Data Scientist, Entrepreneur and Content Creator.
 
-I am a firm believer in people investing in their learning and development, positioning themselves for success and giving back to their community. 
+I am a firm believer in people investing in their learning and development, positioning themselves for success and giving back to their community. This is what motivates me to do everything I do, especially to inspire more African women to pursue careers in Science, Technology, Engineering and Mathematics.
 
-This is what motivates me to do everything I do online, especially to inspire more African women to venture into technology.
+I currently work on Open Education Analytics at Microsoft, which is an open source project where we collaborate with education systems across the world to develop modern data intelligence capabilities.
 
-I currently work on Open Education Analytics at Microsoft, which is an open source project coordinated by my team, where we collaborate with education systems across the world to develop modern data intelligence capabilities.
-
-Want to get in touch with me? Send me a DM on [Twitter](https://twitter.com/ivybarley) or sign up for my [Twitter Spaces](http://spaceswithivy.com).
+Want to get in touch with me? Send me a DM on [Twitter](https://twitter.com/ivybarley) or sign up for my weekly [Twitter Spaces](http://spaceswithivy.com).
 
 
 ## 📝 Latest Blog Posts
