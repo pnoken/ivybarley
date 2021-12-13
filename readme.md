@@ -8,7 +8,8 @@ This is what motivates me to do everything I do online, especially to inspire mo
 
 I currently work on Open Education Analytics at Microsoft, which is an open source project coordinated by my team, where we collaborate with education systems across the world to develop modern data intelligence capabilities.
 
-Want to get in touch with me? Send me a DM on [Twitter](https://twitter.com/ivybarley).
+Want to get in touch with me? Send me a DM on [Twitter](https://twitter.com/ivybarley) or sign up for my [Twitter Spaces](http://spaceswithivy.com).
+
 
 ## 📝 Latest Blog Posts
 - [Landing a Remote Tech Job](https://medium.com/@ivybarley/tips-to-help-you-land-a-remote-tech-job-cd45f91a6060)
